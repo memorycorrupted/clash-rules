@@ -1,53 +1,37 @@
 payload:
   # Fedora
-  - "*.fedoraproject.org"
-  - "*.rpmfusion.org"
-  - "*.copr.fedorainfracloud.org"
-  
-  # Ubuntu / Debian / Canonical
-  - "*.ubuntu.com"
-  - "*.debian.org"
-  - "*.launchpad.net"
-  - "*.canonical.com"
-  - "archive.ubuntu.com"
-  - "security.ubuntu.com"
-  - "ports.ubuntu.com"
-  
-  # Arch
-  - "*.archlinux.org"
-  - "*.aur.archlinux.org"
-  - "geo.mirror.pkgbuild.com"
-  
-  # openSUSE
-  - "*.opensuse.org"
-  - "*.suse.com"
-  - "download.opensuse.org"
-  
-  # RHEL / CentOS / Rocky / Alma
-  - "*.centos.org"
-  - "*.rockylinux.org"
-  - "*.almalinux.org"
-  - "*.redhat.com"
-  - "cdn.redhat.com"
-  
-  # Gentoo
-  - "*.gentoo.org"
-  - "*.gentoo.mirror.*"
-  
-  # Linux Mint
-  - "*.linuxmint.com"
-  - "packages.linuxmint.com"
-  
-  # Общие зеркала
-  - "*.kernel.org"
-  - "*.mirrorlist.*"
-  
-  # Пакетные менеджеры
-  - "*.rpm.org"
-  - "*.dpkg.org"
-  - "snapcraft.io"
-  - "*.snapcraft.io"
-  - "api.snapcraft.io"
-  - "*.flatpak.org"
-  - "dl.flathub.org"
-  - "*.flathub.org"
+    - "*.fedoraproject.org"
+    - "*.rpmfusion.org"
+    - "*.copr.fedorainfracloud.org"
+    - "*.ubuntu.com"
+    - "*.debian.org"
+    - "*.launchpad.net"
+    - "*.canonical.com"
+    - "archive.ubuntu.com"
+    - "security.ubuntu.com"
+    - "ports.ubuntu.com"
+    - "*.archlinux.org"
+    - "*.aur.archlinux.org"
+    - "geo.mirror.pkgbuild.com"
+    - "*.opensuse.org"
+    - "*.suse.com"
+    - "download.opensuse.org"
+    - "*.centos.org"
+    - "*.rockylinux.org"
+    - "*.almalinux.org"
+    - "*.redhat.com"
+    - "cdn.redhat.com"
+    - "*.gentoo.org"
+    - "*.gentoo.mirror.*"
+    - "*.linuxmint.com"
+    - "packages.linuxmint.com"
+    - "*.kernel.org"
+    - "*.mirrorlist.*"
+    - "*.rpm.org"
+    - "*.dpkg.org"
+    - "snapcraft.io"
+    - "*.snapcraft.io"
+    - "api.snapcraft.io"
+    - "*.flatpak.org"
+    - "dl.flathub.org"
+    - "*.flathub.org"
