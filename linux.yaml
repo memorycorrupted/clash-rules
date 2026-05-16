@@ -1,5 +1,4 @@
 payload:
-  # Fedora
     - "*.fedoraproject.org"
     - "*.rpmfusion.org"
     - "*.copr.fedorainfracloud.org"
