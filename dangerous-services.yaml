@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN,calls.okcdn.ru
+  - DOMAIN-SUFFIX,oneme.ru
+  - DOMAIN-SUFFIX,max.ru
+  - DOMAIN-SUFFIX,trace-flow.ru
+  - DOMAIN-SUFFIX,kaspersky.com
+  - DOMAIN-SUFFIX,kaspersky-labs.com
+  - DOMAIN-SUFFIX,kaspersky.ru
+  - DOMAIN-SUFFIX,vk-analytics.ru
+  - DOMAIN-SUFFIX,vk-portal.net
+  - DOMAIN,report.appmetrica.yandex.net
+  - DOMAIN,api.plus.yandex.net
+  - DOMAIN,media-adv.market.yandex.ru
+  - DOMAIN,egw.home-gateway.plus.yandex.net
+  - DOMAIN,mob-manager-aws.mob.taxi.yandex.net
+  - DOMAIN,tracking.rus.miui.com
+  - DOMAIN,api.browser.yandex.ru  
