@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,sberbusiness.ru
   - DOMAIN,ads.vk.com
   - DOMAIN,ads.vk.ru
+  - DOMAIN,mincifry-cert.vk.ru
   - DOMAIN,salute.sber.ru
   - DOMAIN,data.sberbank.ru
   - DOMAIN,metrics.tinkoff.ru
