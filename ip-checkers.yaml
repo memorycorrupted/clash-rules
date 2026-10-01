@@ -1,18 +1,19 @@
-DOMAIN-SUFFIX,2ip.ru
-DOMAIN-SUFFIX,2ip.io
-DOMAIN-SUFFIX,ipip.net
-DOMAIN-SUFFIX,sypexgeo.net
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,ipapi.is
-DOMAIN-SUFFIX,iplocate.io
-DOMAIN-SUFFIX,ipwho.is
-DOMAIN-SUFFIX,ifconfig.me
-DOMAIN,checkip.amazonaws.com
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.org
-DOMAIN-SUFFIX,whatismyipaddress.com
-DOMAIN-SUFFIX,ipchecker.io
-DOMAIN-SUFFIX,iplocation.io
-DOMAIN-SUFFIX,ipcheck.ing
-DOMAIN-SUFFIX,whoer.net
+payload:
+  - DOMAIN-SUFFIX,2ip.ru
+  - DOMAIN-SUFFIX,2ip.io
+  - DOMAIN-SUFFIX,ipip.net
+  - DOMAIN-SUFFIX,sypexgeo.net
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ipapi.is
+  - DOMAIN-SUFFIX,iplocate.io
+  - DOMAIN-SUFFIX,ipwho.is
+  - DOMAIN-SUFFIX,ifconfig.me
+  - DOMAIN,checkip.amazonaws.com
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,whatismyipaddress.com
+  - DOMAIN-SUFFIX,ipchecker.io
+  - DOMAIN-SUFFIX,iplocation.io
+  - DOMAIN-SUFFIX,ipcheck.ing
+  - DOMAIN-SUFFIX,whoer.net
