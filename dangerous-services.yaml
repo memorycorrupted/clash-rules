@@ -8,10 +8,38 @@ payload:
   - DOMAIN-SUFFIX,kaspersky.ru
   - DOMAIN-SUFFIX,vk-analytics.ru
   - DOMAIN-SUFFIX,vk-portal.net
+  - DOMAIN-SUFFIX,mradx.net
+  - DOMAIN-SUFFIX,mc.yandex.ru
+  - DOMAIN-SUFFIX,webvisor.org
+  - DOMAIN-SUFFIX,an.yandex.ru
+  - DOMAIN-SUFFIX,awaps.yandex.ru
+  - DOMAIN-SUFFIX,direct.yandex.ru
+  - DOMAIN-SUFFIX,audience.yandex.ru
+  - DOMAIN-SUFFIX,appmetrica.yandex.ru
+  - DOMAIN-SUFFIX,ext.yandex.ru
+  - DOMAIN-SUFFIX,radar.metrika.yandex
+  - DOMAIN-SUFFIX,sbermarketing.ru
+  - DOMAIN-SUFFIX,sberbusiness.ru
+  - DOMAIN,salute.sber.ru
+  - DOMAIN,data.sberbank.ru
+  - DOMAIN,metrics.tinkoff.ru
+  - DOMAIN,metrics.tbank.ru
+  - DOMAIN,analytics.tinkoff.ru
+  - DOMAIN,cfg.tinkoff.ru
+  - DOMAIN,corp-analytics.ru
+  - DOMAIN,clickstream.vtb.ru
+  - DOMAIN,metrics.alfabank.ru
+  - DOMAIN,analytics.sberbank.ru
+  - DOMAIN,sdk-api.apptracer.ru
+  - DOMAIN,top-fwz1.mail.ru
+  - DOMAIN,ad.mail.ru
+  - DOMAIN,rs.mail.ru
+  - DOMAIN,stats.vk.com
+  - DOMAIN,target.my.com
   - DOMAIN,report.appmetrica.yandex.net
   - DOMAIN,api.plus.yandex.net
   - DOMAIN,media-adv.market.yandex.ru
   - DOMAIN,egw.home-gateway.plus.yandex.net
   - DOMAIN,mob-manager-aws.mob.taxi.yandex.net
   - DOMAIN,tracking.rus.miui.com
-  - DOMAIN,api.browser.yandex.ru  
+  - DOMAIN,api.browser.yandex.ru 
