@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN,calls.okcdn.ru
+  - DOMAIN,iv.okcdn.ru
+  - DOMAIN,videowebrtc.okcdn.ru
+  - DOMAIN,apptracer.ru
+  - DOMAIN-SUFFIX,oneme.ru
+  - DOMAIN-SUFFIX,max.ru
