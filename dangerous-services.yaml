@@ -1,7 +1,4 @@
 payload:
-  - DOMAIN,calls.okcdn.ru
-  - DOMAIN-SUFFIX,oneme.ru
-  - DOMAIN-SUFFIX,max.ru
   - DOMAIN-SUFFIX,trace-flow.ru
   - DOMAIN-SUFFIX,kaspersky.com
   - DOMAIN-SUFFIX,kaspersky-labs.com
