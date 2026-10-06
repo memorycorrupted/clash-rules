@@ -5,3 +5,9 @@ payload:
   - DOMAIN,apptracer.ru
   - DOMAIN-SUFFIX,oneme.ru
   - DOMAIN-SUFFIX,max.ru
+  - DOMAIN,api.ipify.org
+  - DOMAIN,checkip.amazonaws.com
+  - DOMAIN,ifconfig.me
+  - DOMAIN,ip.mail.ru
+  - DOMAIN,ipv4-internet.yandex.net
+  - DOMAIN,ipv6-internet.yandex.net
